@@ -1,4 +1,5 @@
 # demo
+
 first GIT repo
 <br>
-Author - yashodhan agale
+Author - Yashodhan Agale
